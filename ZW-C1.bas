@@ -1086,7 +1086,7 @@ Budzik_pomocnicza_1 = 1
 Led_b = 1
 Pwm1b = 255
 Gosub Otwarte_oczy
-Komunikaty_pomocnicza_2 = 6
+Komunikaty_pomocnicza_2 = 4
 Gosub Komunikaty_glosowe
 Tryb_pracy = 0
 End If
